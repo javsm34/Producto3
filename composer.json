@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laminas/laminas-db": "^2.15",
+        "laminas/laminas-soap": "^2.10"
+    }
+}
